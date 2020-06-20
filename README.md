@@ -1,14 +1,14 @@
 # Challenge-5
 
-## Review
+## Overview
+* Utilized JQuery and Bootstrap for shortcut methods
+* Laid out the project in a grid with flex capability
+* Uiltized localStorage for saving tasks
+* Utilized Moment.js to check on local time and color-code the time blocks
 
-You are required to submit the following for review:
 
-* The URL of the deployed application.
-** 
+### The URL of the deployed application.
+* https://judhowland.github.io/challenge-5/
 
-* The URL of the GitHub repository
-** https://github.com/judhowland/challenge-5
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+### The URL of the GitHub repository
+* https://github.com/judhowland/challenge-5
